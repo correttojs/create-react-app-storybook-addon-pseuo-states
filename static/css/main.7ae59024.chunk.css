@@ -1,0 +1,16 @@
+.src-SimpleButton-simple-button-module__Button{background:violet}.src-SimpleButton-simple-button-module__Button:hover,
+.src-SimpleButton-simple-button-module__Button.src-SimpleButton-simple-button-module__\:hover{background:green}.src-SimpleButton-simple-button-module__Button:focus,
+.src-SimpleButton-simple-button-module__Button.src-SimpleButton-simple-button-module__\:focus{background:blue}.src-SimpleButton-simple-button-module__Button:focus:hover,
+.src-SimpleButton-simple-button-module__Button.src-SimpleButton-simple-button-module__\:focus.src-SimpleButton-simple-button-module__\:hover{background:#61DAFB}.src-SimpleButton-simple-button-module__Button:active,
+.src-SimpleButton-simple-button-module__Button.src-SimpleButton-simple-button-module__\:active{background:red}.src-SimpleButton-simple-button-module__Button.src-SimpleButton-simple-button-module__big{height:100px}.src-SimpleButton-simple-button-module__Button.src-SimpleButton-simple-button-module__rounded{border-radius:50%}.src-SimpleButton-simple-button-module__Button:disabled,
+.src-SimpleButton-simple-button-module__Button.src-SimpleButton-simple-button-module__\:disabled{opacity:0.4;pointer-events:none}
+
+.Button{background:violet}.Button:hover,
+.Button.\:hover{background:green}.Button:focus,
+.Button.\:focus{background:blue}.Button:focus:hover,
+.Button.\:focus.\:hover{background:#61DAFB}.Button:active,
+.Button.\:active{background:red}.Button.big{height:100px}.Button:disabled,
+.Button.\:disabled{opacity:0.4;pointer-events:none}
+
+
+/*# sourceMappingURL=main.7ae59024.chunk.css.map*/
